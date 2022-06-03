@@ -1,5 +1,5 @@
 # shapez-sorters
-Advanced version of filters for Shapez game, with actual filtering
+Advanced version of filters for [Shapez game by tobspr](https://github.com/tobspr/shapez.io).
 
 Without signal or with boolean signal the sorter behaves the same as filter.  
 For any other wire input, the actual item type and content get compared and the item gets passed to green arrow only if they are identical.  
