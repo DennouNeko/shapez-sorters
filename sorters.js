@@ -4,7 +4,7 @@ const METADATA =
     author: "DennouNeko",
     name: "Sorters",
     version: "v1.0.0",
-    website: "",
+    website: "https://github.com/DennouNeko/shapez-sorters",
     id: "sorters",
     description: "Advanced version of filters, with actual filtering",
     minimumGameVersion: ">=1.5.0",
